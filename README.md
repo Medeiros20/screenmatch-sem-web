@@ -29,7 +29,7 @@
 
 ```bash
 # Clone o repositório
-git clone https://github.com/Medeiros20/screenmatch-com-web.git
+git clone https://github.com/Dev-Joao-Medeiros/screenmatch-com-web.git
 
 # Acesse a pasta do projeto
 cd screenmatch-com-web
